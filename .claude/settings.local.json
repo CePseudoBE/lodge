@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx shadcn-vue:*)",
+      "WebFetch(domain:mindtrip.ai)",
+      "WebFetch(domain:shadcn-vue.com)",
+      "Bash(npm run dev:*)",
+      "Bash(npm run build:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
